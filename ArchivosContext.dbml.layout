@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="ArchivosContext">
+  <DataContextMoniker Name="/ArchivosContextDataContext" />
+  <nestedChildShapes>
+    <classShape Id="6c703550-a40c-43bf-9840-4c1ef7dcb867" absoluteBounds="5, 1.375, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/ArchivosContextDataContext/CUPS_IPS" />
+      <nestedChildShapes>
+        <elementListCompartment Id="041b44ea-73c6-4c21-89a5-1a186fc4d103" absoluteBounds="5.015, 1.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
